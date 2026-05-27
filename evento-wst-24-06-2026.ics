@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Water Services and Technologies//WST Event//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:wst-event-20260624-1100@waterservicestech.com
+DTSTAMP:20260527T183035Z
+DTSTART:20260624T140000Z
+DTEND:20260624T150000Z
+SUMMARY:Evento Water Services and Technologies
+DESCRIPTION:Participe do evento da Water Services and Technologies. Horario: 11h as 12h (UTC-3). Link de inscricao: https://us02web.zoom.us/meeting/register/tkVWk6NhR4uLEEoz8TXh0g
+LOCATION:Online - Zoom
+URL:https://us02web.zoom.us/meeting/register/tkVWk6NhR4uLEEoz8TXh0g
+END:VEVENT
+END:VCALENDAR
